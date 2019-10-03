@@ -29,6 +29,9 @@ This is a coding exam administered for consideration of employment as a front-en
     1. A task is considered trouble if it has a taskStatusId value of "Delayed", "Blocked", or "Stuck".
 4. The minimum dueDate and the maximum dueDate of all tasks should be rendered on the screen, including the number of whole integer days between them inclusive. Round up to the nearest whole number.
 
+## Submissions
+1. Please submit your solutions uploaded to source control, e.g. your GitHub and sending the link, or alternatively as a zipped file by emailing it to zzullick at allma.io.
+
 ## Brownie Points
 1. If your solution runs in a Docker container.
 2. If your solution can search the tasks by the name/description fields via a UI input field.
