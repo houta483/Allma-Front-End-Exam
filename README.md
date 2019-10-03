@@ -12,6 +12,7 @@ This is a coding exam administered for consideration of employment as a front-en
 1. Your solution should meet/implement all of the valid use cases as outlined. 
 2. Your solution should enlist readable and understandable code. Feel free to annotate your code as you would normally.
 3. Your solution should include instructions on how to run it.
+4. The solution cannot fail on it's design aesthetics, e.g. pixel perfection, colors, styles, etc, however quality solutions in this regard will be viewed positively.
 
 ## Use Cases to Implement
 1. All tasks from the API should be rendered on a single screen/page. You can render it any way you like, e.g. tabular, cards, etc.
