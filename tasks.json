@@ -1,4 +1,4 @@
-{
+[{
     "tasks": [
         {
             "taskId": 28,
@@ -613,4 +613,4 @@
             "taskStatusId": "Assigned"
         }
     ]
-}
+}]
